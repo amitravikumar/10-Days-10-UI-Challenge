@@ -3,5 +3,5 @@ Creating UI for different web page styles using HTML, CSS and JavaScript
 
 ## Day 1 
 Live Demo: https://suspicious-wozniak-5d7871.netlify.app/
-Creating the page with the UI perspective
+
 <img src="CSS-Perspective/1.JPG"/>
