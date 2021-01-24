@@ -19,3 +19,6 @@ Live Demo: https://cranky-lumiere-f72b14.netlify.app/
 
 ## Day 5
 Live Demo: https://keen-wescoff-324265.netlify.app/
+
+## Day 6
+Live Demo: https://pedantic-turing-2ce2d3.netlify.app
